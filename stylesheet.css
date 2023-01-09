@@ -1,0 +1,776 @@
+.top{
+    width: 81.3%;
+    background-color: black;
+    height: 80px;
+    margin-left: 110px; 
+    position: fixed; 
+    z-index: 6; 
+}
+.logo{
+   height: 10px;
+   padding-left: 15px;
+   padding-top: 20px; 
+}
+.games{
+    font-size: 13px;
+    color: white;
+    padding-left: 100px;
+    font-family: SupercellText-Medium,Helvetica,Arial,sans-serif;
+    padding-top: 5px; 
+    float: left;
+}
+.Careers{
+    font-size: 13px;
+    color: white;
+    padding-left: 25px;
+    font-family: SupercellText-Medium,Helvetica,Arial,sans-serif;
+    float: left;
+    padding-top: 5px; 
+   
+}
+.Support{
+    font-size: 13px;
+    color: white;
+    padding-left: 25px;
+    font-family: SupercellText-Medium,Helvetica,Arial,sans-serif;
+    float: left;
+    padding-top: 5px; 
+   
+}
+.About-us{
+    font-size: 13px;
+    color: white;
+    padding-left: 25px;
+    font-family: SupercellText-Medium,Helvetica,Arial,sans-serif;
+    float: left;
+    padding-top: 5px; 
+   
+}
+.search{
+    width: 10px;
+    height: 9px;
+    padding-right: 34px;
+    padding-top: 3px;
+    float: right;
+    color: #666;
+}
+.supercell-id{
+    margin-top: -4px;
+    padding-right: 55px;   
+    float: right;
+    width: 26px;
+}
+.mak-supercell{
+   
+    padding-right: 25px;   
+    float: right; 
+    width: 35px;
+    margin-top: -8px;
+
+}
+.supercell-com{
+    
+    padding-right: 16px;   
+    float: right; 
+    width: 25px;
+    margin-top: -5px;
+
+
+}
+.main{
+    
+    font-size: 36px;
+    text-align: center;
+    padding-top: 120px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 700;   
+    margin-bottom: 0.33em;
+    margin-top: 0;
+    line-height: 1.25em;
+}
+.main2{
+    font-size: 17px;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    text-align: center;
+    line-height: 1.56;
+    font-weight: 200;
+    padding-bottom: 100px;
+    margin-top: -20px;
+    
+
+}
+.see-main{
+    position: relative;
+    left: 550px;
+    top: -15px;
+    background: linear-gradient(90deg,#1f7aeb,#1f7aeb 54px,#2d85f3 0,#2d85f3);
+    color: black;
+    border-radius: 23px;
+    height: 47px;
+    width: 12%;
+    font-size: 10px;
+    font-weight: 600;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    border: none;
+}
+
+.button{
+    color: white;
+    background:none;
+    border-radius: none;
+}
+.see-list{
+    position: relative;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color: white;
+    font-size: 12px;
+    left: 63px;
+    font-weight: 600;
+    top: 17px
+} 
+.arrow-down{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    font-size: 19px;
+    color: white;
+    left: 19px;
+    top: -1px;
+
+} 
+
+.second-main{
+    width: 100%;
+    background-color: white;
+    height: 2300px;
+    margin-top: 115px;
+}
+.first-box{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 110px;
+    
+    
+}
+.news1{
+    text-align: center;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:#fb4a9d;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.sub1{
+   
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:black;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.second-box{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: right;
+    margin-right: 110px;
+}
+.news2{
+    text-align: center;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:#fb4a9d;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.sub2{
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:black;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+
+}
+.third-box{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 110px;
+    margin-top: 160px;
+}
+.news3{
+    text-align: center;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:#fb4a9d;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.sub3{
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:black;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.forth-box{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: right;
+    margin-right: 110px;
+    margin-top: 160px;
+}
+.news4{
+    text-align: center;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:#fb4a9d;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.sub4{
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:black;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.fifth-box{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 110px;
+    margin-top: 160px;
+}
+.news5{
+    text-align: center;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:#fb4a9d;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.sub5{
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:black;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.sixth-box{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: right;
+    margin-right: 110px;
+    margin-top: 160px;
+}
+.news6{
+    text-align: center;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:#fb4a9d;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.sub6{
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:black;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.seventh-box{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 110px;
+    margin-top: 160px;
+}
+.news7{
+    text-align: center;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:#fb4a9d;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.sub7{
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:black;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.eight-box{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: right;
+    margin-right: 110px;
+    margin-top: 160px;
+}
+.news8{
+    text-align: center;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:#fb4a9d;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.sub8{
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:black;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.ninth-box{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 110px;
+    margin-top: 160px;
+}
+.news9{
+    text-align: center;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:#fb4a9d;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.sub9{
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    color:black;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.news-archive{
+    background-color: white;
+    width: 100%;
+    height: 60px;
+}
+.hello{
+    position: relative;
+    left: 550px;
+    top: 14px;
+    background-color: #1f7aeb;
+    border-radius: 8px;
+    height: 39px;
+    width: 12%;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    border: none;
+}
+.hello12{
+    color: white;
+    position: relative;
+    top: 13px;
+    text-align: center;
+
+}
+
+
+
+/* .games1{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc((100% - 100px)/6*6 + 100px); */
+
+/* } */
+.games2{
+    position: relative;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 900;
+    font-size: 27px;
+    color: white;
+    padding-top: 100px;
+    left: 110px;
+    
+}
+.main6{
+    width: 100%;
+    height: 400px;
+   
+    background-image: url(IMAGES/download.jpg);
+    background-size: 100%;
+
+}
+.game4{
+    position: relative;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: 17px;
+    color: white;
+    top: -15px;
+    left: 110px;
+    line-height: 27px;
+
+}
+.btn{
+    position: relative;
+    left: 110px;
+    top: 13px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    height: 50px;
+    width: 10%;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    border: none;
+
+}
+.img-nita{
+    position: relative;
+    right: -690px;
+    width: 33%;
+    height: 70px;
+    top: -300px;
+}
+.main7{
+    width: 100%;
+    height: 400px;
+    background-color: #2d85f3;   
+    background-size: 100%;
+}
+.dowload1{
+    position: relative;
+    width: 33%;
+    height: 70px;
+    left: 160px;
+   
+
+}
+.carrers2{
+    position: relative;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 900;
+    font-size: 27px;
+    color: white;
+    top: -345px;
+    left: 440px;
+    
+}
+.game5{
+    
+    position: relative;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    font-weight: 200;
+    font-size: 17px;
+    color: white;
+    top: -360px;
+    left: 440px;
+    line-height: 27px;
+}
+.btn1{
+    position: relative;
+    left: 440px;
+    top: -335px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    height: 50px;
+    width: 30%;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    border: none;
+
+}
+.main8{
+    background-color: #f5f5f5;
+    width: 100%;
+    height: 730px;
+}
+.mobilegamers{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+.white-box{
+    height: 290px;
+    width: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 0px;
+    margin-top: -4px;
+   
+}
+.head1{
+    position:relative;
+    left: 50px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    top:20px;
+    line-height: 20px;
+}
+.url-1{
+    position:relative;
+    left: 50px;
+    font-size: 14px;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    top:20px;
+    line-height: 20px;
+
+}
+.read-article{
+    position:relative;
+    left: 50px;
+    font-size: 14px;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    top:20px;
+    line-height: 20px;
+    color: #1f7aeb;
+    font-weight: 700;
+
+}
+.pocket-gamers{
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    float: right;
+    margin-right: 110px;
+    margin-top: 50px;
+}
+.white-box1{
+    height: 290px;
+    width: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    float: right;
+    margin-right: 0px;
+    margin-top: -4px;
+
+}
+.head2{
+    position:relative;
+    left: 50px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    top:20px;
+    line-height: 20px;
+}
+.url-2{
+    position:relative;
+    left: 50px;
+    font-size: 14px;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    top:20px;
+    line-height: 20px;
+}
+.read-article1{
+    position:relative;
+    left: 50px;
+    font-size: 14px;
+    font-family: SupercellHeadline-Heavy,sans-serif;
+    top:20px;
+    line-height: 20px;
+    color: #1f7aeb;
+    font-weight: 700;
+
+}
+.dot-1{
+    position: relative;
+     padding-top: 660px;
+     color: #1f7aeb;
+     left: 545px;
+     
+  }
+  .dot-2{
+    position: relative;
+     color: #dedede;
+     left: 575px;
+     top: -18px;
+     
+  }
+  .dot-3{
+    position: relative;
+     color: #dedede;
+     left: 605px;
+     top: -36px;     
+  }
+  .dot-4{
+    position: relative;
+     color: #dedede;
+     left: 635px;
+     top: -54px;     
+  }
+  .main-8{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    margin-top: -22px;
+       
+  }
+  .fon{
+    position: relative;
+    font-size: 12px;
+    color: white;
+    left: 110px;
+    top: 39px;
+    font-family: SupercellText-Medium,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+
+    
+  }
+  .youtube{
+    color: white;
+    position: relative;
+    left: 110px;
+    top: 40px;
+    width: 35px;  
+  }
+  .facebook{
+    color: white;
+    position: relative;
+    left: 162px;
+    top: 12px;
+    width: 24px;
+  }
+  .instagram{
+    color: white;
+    position: relative;
+    left: 203px;
+    top: -17px;
+    width: 26px;
+
+  }
+  .twitter{
+    color: white;
+    position: relative;
+    left: 242px;
+    top: -45px;
+    width: 28px;
+
+  }
+  .linkedin{
+    color: white;
+    position: relative;
+    left: 283px;
+    top: -72px;
+    width: 23px;
+
+  }
+  .glassdoor{
+    color: white;
+    position: relative;
+    left: 316px;
+    top: -98px;
+    width: 28px;
+}
+.app-store{
+    position: relative;
+    right: -870px;
+    width: 120px;
+    top: -149px;
+
+}
+.play-store{
+    position: relative;
+    right: -1000px;
+    width: 136px;
+    top: -193px;
+
+}
+
+.thin{
+    background-color: #666;
+    height: 1px;
+    width: 82.5%;
+    position: relative;
+    top: -140px;
+    left: 110px;
+
+}
+.terms-condition{
+    position: relative;
+    left: 110px;
+    font-size: 13px;
+    font-family: SupercellText-Medium,Helvetica,Arial,sans-serif;
+    color: white;
+    top: -110px;
+    font-weight: 600;
+}
+.final{
+    position: relative;
+    left: 110px;
+    font-size: 13px;
+    top: -100px;
+    color: #666;
+    font-family: SupercellText-Medium,Helvetica,Arial,sans-serif;
+    line-height: 20px;
+}
+.logo-last{
+    position: relative;
+    right: -1085px;
+    width: 46px;
+    top: -160px;
+
+}
+.thin-linee{
+    width: 1px;
+    height: 80px;
+    background-color: #666;
+    left: 953px;
+    top: -30px;
+    position: relative;
+
+}
+
+
+
+    
+
+    
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
